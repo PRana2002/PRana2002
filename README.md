@@ -1,16 +1,33 @@
-### Hi there 👋
+<p align="center"> <img src="./assets/123.gif" alt="me!" width="400"></p>
 
-<!--
-**PRana2002/PRana2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi! I'm PRana</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+🎮&nbsp; I like playing games a lot. Made me learn all the stuff that I do today, painstakingly
+</p>
+
+<p align="center">
+🎓&nbsp;Just tryin to finish my major at IIT Dhanbad
+</p>
+
+<p align="center">
+🎶 I love Music (rock/alternative)
+</p>
+
+<p align="center">
+🎮Favourite games right now :  Battlefield 4 and Minecraft
+
+</p>
+
+<p align="center">
+
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=PRana2002&theme=radical&date_format=M%20j%5B%2C%20Y%5D&dates=26FFB6" width="350"/></p>
+
+## <p align="center"> 🎶 &nbsp; What Am I Chilling With?</p>
+
+<p align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=313zhibh4lxub7jseamnbqsckmni&cover_image=true&theme=default&bar_color=ff007b&bar_color_cover=false" width="250"/></p>
+
+
+<br>
