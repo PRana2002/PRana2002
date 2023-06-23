@@ -1,6 +1,6 @@
 <p align="center"> <img src="./assets/123.gif" alt="me!" width="400"></p>
 
-<h2 align="center">Hi! I'm PRana</h2>
+<h2 align="center">Hi! I'm PRana2002</h2>
 
 
 
